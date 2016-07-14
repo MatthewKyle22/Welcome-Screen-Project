@@ -9,3 +9,5 @@ of the background photos stored, so the code does not constantly have to fetch f
 
 Thanks for Reading!
 
+Note: Due to API subscription expiring, quotes no longer are shown.
+
